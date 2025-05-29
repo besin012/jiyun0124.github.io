@@ -135,7 +135,7 @@ header a:hover .tooltip-text {
 
 /* Home */
 #home {
-    background-image: url("../images/see.png");
+    background-image: url("images/see.png");
     background-size: cover;
     background-attachment: fixed;
     background-position: 0 -120px;
@@ -245,7 +245,7 @@ header a:hover .tooltip-text {
 /* About */
 #about {
     position: relative;
-    background-image: url("../images/sky.JPG");
+    background-image: url("images/sky.jpg");
     background-size: cover;
     background-color: #b0e3ef;
 }
@@ -484,7 +484,7 @@ header a:hover .tooltip-text {
 
 /* Favorite */
 #favorite {
-    background-image: url("../images/sky3.png");
+    background-image: url("images/sky3.png");
     position: relative;
     background-size: cover;
 }
@@ -566,7 +566,7 @@ header a:hover .tooltip-text {
 
 /* Goal */
 #tmi {
-    background-image: url("../images/윤슬.jpeg");
+    background-image: url("images/윤슬.jpeg");
     background-size: cover;
 }
 
@@ -625,20 +625,20 @@ header a:hover .tooltip-text {
     opacity: .5;
 }
 #tmi .tmi_box .tmi_detail:nth-child(1) .tmi_detaile_imgbox{
-    background-image: url("../images/베이킹.jpg");
+    background-image: url("images/베이킹.jpg");
     background-size: cover;
     background-position: center;
 
 }
 
 #tmi .tmi_box .tmi_detail:nth-child(2) .tmi_detaile_imgbox{
-    background-image: url("../images/강아지.gif");
+    background-image: url("images/강아지.gif");
     background-size: 120% 100%;
     background-position: center;
 }
 
 #tmi .tmi_box .tmi_detail:nth-child(3) .tmi_detaile_imgbox{
-    background-image: url("../images/고기.gif");
+    background-image: url("images/고기.gif");
     background-size: cover;
 
 }
@@ -664,7 +664,7 @@ header a:hover .tooltip-text {
     display: flex;
     position: relative;
     color: whitesmoke;
-    background-image: url("../images/sky2.jpg");
+    background-image: url("images/sky2.jpg");
     min-height: 100vh; /* ✅ 추가 */
     padding: 0;    /* ✅ 여유 공간 확보 */
     scroll-margin-top:0px;  /* 헤더 높이만큼 여백 확보 */
